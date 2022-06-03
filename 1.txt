@@ -1,0 +1,2 @@
+
+For creating a table, first we have to create a dataset.
